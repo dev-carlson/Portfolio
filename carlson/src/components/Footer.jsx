@@ -12,10 +12,7 @@ const Footer = () => {
         <a href="https://www.facebook.com/carlson.roman" target="_blank">
           <AiFillFacebook />
         </a>
-        <a
-          href="https://github.com/bozbez/win-capture-audio/releases/"
-          target="_blank"
-        >
+        <a href="https://github.com/dev-carlson" target="_blank">
           <AiFillGithub />
         </a>
         <a
@@ -25,7 +22,7 @@ const Footer = () => {
           <AiFillLinkedin />
         </a>
       </div>
-      <p> &copy; 2023 N/A </p>
+      <p> &copy; 2023 </p>
     </div>
   );
 };

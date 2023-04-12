@@ -8,17 +8,27 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2>
-          Hi there! My name is Carl
-        </h2>
+        <h2>Hi there! My name is Carl</h2>
         <div className="prompt">
           <p>
-            As a Front-End website developer, I thrive on building beautiful and responsive
-            websites that provide an enjoyable user experience.
+            As a Front-End website developer, I thrive on building beautiful and
+            responsive websites that provide an enjoyable user experience.
           </p>
-          <AiFillLinkedin />
-          <AiOutlineMail />
-          <AiFillGithub />
+          <a
+            href="https://www.linkedin.com/in/carl-son-roman-0ba75a267/"
+            target="_blank"
+          >
+            <AiFillLinkedin />
+          </a>
+          <a href="mailto:carlsonroman03@gmail.com" target="_blank">
+            <AiOutlineMail />
+          </a>
+          <a
+            href="https://github.com/dev-carlson"
+            target="_blank"
+          >
+            <AiFillGithub />
+          </a>
         </div>
       </div>
       <div className="skills">
