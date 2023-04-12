@@ -13,16 +13,16 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: #21325e;
-  color: #f0f0f0;
+  background-color: #7f7e90;
+  color: #382f60;
 }
 
 .about h2 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 80px;
-  color: #e9d35b;
+  color: #f8e4dd;
   height: 50px;
-  height: 6rem;
+  height: 5rem;
 }
 
 .about .prompt {
@@ -42,7 +42,7 @@
 } 
 
 .skills h1 {
-  color: #3e497a;
+  color: #382f60;
 }
 
 .skills .list {
@@ -52,6 +52,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  color: #382f60;
 }
 
 .list span {

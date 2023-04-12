@@ -9,22 +9,22 @@ import { GiGraduateCap } from "react-icons/gi";
 function Experience() {
   return (
     <div className="experience">
-      <VerticalTimeline lineColor="#3e497a">
+      <VerticalTimeline lineColor="#4b81ab">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2015 - 2021"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#4b81ab", color: "#fff" }}
           icon={<GiGraduateCap />}
         >
           <h3 className="vertical-timeline-element-title">
             Orani National High School, Philippines
           </h3>
-          <p>High School & Senior High School Diploma</p>
+          <p>High School & Senior High School</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2021 - 2022"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#4b81ab", color: "#fff" }}
           icon={<GiGraduateCap />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -35,7 +35,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2022 - 2023"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#4b81ab", color: "#fff" }}
           icon={<GiGraduateCap />}
         >
           <h3 className="vertical-timeline-element-title">
